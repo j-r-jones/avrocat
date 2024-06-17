@@ -1,7 +1,7 @@
-structlog[dev]
-docopt
+structlog[dev] == 17.2.0
+docopt == 0.6.2
 requests
-confluent_kafka_helpers
+confluent_kafka_helpers == 0.6.1
 ipdb
 pdbpp
 
